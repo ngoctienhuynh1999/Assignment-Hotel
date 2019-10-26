@@ -1,0 +1,74 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+#logo {
+  width: 100px;
+  height: 70px;
+}
+
+#NameHotel {
+  font-size: 45px;
+  color: BLACK;
+  font-family: Comic Sans MS;
+}
+
+#room
+{
+	background-color: #363636;
+	margin-bottom:10px;
+}
+
+#roomPic
+{
+	margin-left:0px;
+	width:100%;
+	height:400px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#thongtinphong
+{
+	color:white;
+	font-size:20px;
+	line-height:40px;
+}
+
+#datphong
+{
+	margin-top: 30px;
+	font-size:30px;
+	width:300px;
+}
+
+p
+{
+	line-height:1.5;
+	color: #000011;
+	font-size:20px;
+  font-family: Comic cursive;
+}
+
+#footer{
+  background-color: #ffbb99;
+  padding-top: 10px;
+}
+
+.footerList{
+  list-style-type: none;
+  display:flex;
+  flex-direction: column;
+}
+
+.social-item {
+	display: flex;
+}
+
+.Connet:nth-child(1), .Connet:nth-child(2) {
+	margin-right: 5px;
+}
